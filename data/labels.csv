@@ -1,0 +1,31 @@
+file,label,note
+Candidate_01.docx,Maybe,Keyword-light but relevant
+Candidate_02.docx,Maybe,"Statistics background, R-focused"
+Candidate_03.docx,Maybe,Data analyst: no ML/NLP
+Candidate_04.docx,Poor,Keyword-stuffed but no substance
+Candidate_05.docx,Poor,Accountant
+Candidate_06.docx,Good,"Good, wording differs (ML as 'AI')"
+Candidate_07.docx,Good,"Experienced ML, few preferred skills"
+Candidate_08.docx,Maybe,"Backend dev with Python/SQL, no ML"
+Candidate_09.docx,Maybe,ML but no SQL or Git
+Candidate_10.docx,Maybe,"Aspiring ML, only basic skills"
+Candidate_11.docx,Good,"Good, junior with internship"
+Candidate_12.docx,Poor,Graphic designer
+Candidate_13.docx,Poor,Content writer
+Candidate_14.docx,Poor,Digital marketer
+Candidate_15.docx,Maybe,"Software dev, some NLP exposure"
+Candidate_16.docx,Poor,Civil engineer
+Candidate_17.docx,Good,"ML engineer, cloud focus"
+Candidate_18.docx,Maybe,"Data engineer, little ML"
+Candidate_19.docx,Maybe,"Old ML experience, rusty"
+Candidate_20.docx,Good,Good but uses natural language wording
+Candidate_21.docx,Maybe,Analytics with ML but no Python depth
+Candidate_22.docx,Poor,"Android developer, no data"
+Candidate_23.docx,Good,Strong generative AI profile
+Candidate_24.docx,Poor,HR professional
+Candidate_25.docx,Good,Good MLOps lean
+Candidate_26.docx,Good,Good research-flavoured
+Candidate_27.docx,Poor,Mechanical engineer
+Candidate_28.docx,Good,Strong ML/NLP engineer
+Candidate_29.docx,Good,"Strong fresher, project-heavy"
+Candidate_30.docx,Poor,"Web developer, no data skills"

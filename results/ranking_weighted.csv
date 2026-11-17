@@ -1,0 +1,31 @@
+candidate,score,semantic,required_hit,preferred_hit,matched,missing
+Candidate_28,75.1,0.658,0.87,0.72,"git, machine learning, nlp, pandas, python, sql",
+Candidate_25,72.6,0.701,0.8,0.6,"git, machine learning, nlp, pandas, python, sql",
+Candidate_17,67.0,0.611,0.87,0.32,"git, machine learning, nlp, pandas, python, sql",
+Candidate_06,66.1,0.624,0.8,0.4,"git, machine learning, nlp, pandas, python, sql",
+Candidate_23,65.9,0.561,0.87,0.4,"git, machine learning, nlp, pandas, python, sql",
+Candidate_29,62.8,0.577,0.8,0.32,"git, machine learning, nlp, pandas, python, sql",
+Candidate_11,56.3,0.501,0.8,0.12,"git, machine learning, nlp, pandas, python, sql",
+Candidate_26,54.9,0.488,0.73,0.24,"git, machine learning, nlp, pandas, python, sql",
+Candidate_07,54.7,0.445,0.87,0.0,"git, machine learning, nlp, pandas, python, sql",
+Candidate_20,54.6,0.443,0.87,0.0,"git, machine learning, nlp, pandas, python, sql",
+Candidate_09,49.1,0.558,0.6,0.0,"machine learning, nlp, pandas, python","git, sql"
+Candidate_18,48.6,0.498,0.53,0.32,"git, pandas, python, sql","machine learning, nlp"
+Candidate_03,43.8,0.38,0.67,0.0,"git, pandas, python, sql","machine learning, nlp"
+Candidate_01,43.1,0.425,0.6,0.0,"git, pandas, python, sql","machine learning, nlp"
+Candidate_19,42.7,0.535,0.47,0.0,"git, machine learning, python, sql","nlp, pandas"
+Candidate_15,42.2,0.463,0.53,0.0,"git, nlp, python, sql","machine learning, pandas"
+Candidate_08,39.5,0.485,0.37,0.2,"git, python, sql","machine learning, nlp, pandas"
+Candidate_04,39.1,0.336,0.6,0.0,"git, machine learning, nlp, pandas, python, sql",
+Candidate_10,38.7,0.474,0.43,0.0,"git, machine learning, python","nlp, pandas, sql"
+Candidate_21,34.0,0.371,0.43,0.0,"machine learning, pandas, sql","git, nlp, python"
+Candidate_02,31.5,0.375,0.37,0.0,"machine learning, python, sql","git, nlp, pandas"
+Candidate_30,20.3,0.304,0.17,0.0,git,"machine learning, nlp, pandas, python, sql"
+Candidate_22,15.8,0.262,0.1,0.0,git,"machine learning, nlp, pandas, python, sql"
+Candidate_16,15.5,0.344,0.0,0.0,,"git, machine learning, nlp, pandas, python, sql"
+Candidate_24,13.5,0.3,0.0,0.0,,"git, machine learning, nlp, pandas, python, sql"
+Candidate_27,13.5,0.301,0.0,0.0,,"git, machine learning, nlp, pandas, python, sql"
+Candidate_12,10.3,0.228,0.0,0.0,,"git, machine learning, nlp, pandas, python, sql"
+Candidate_13,9.7,0.215,0.0,0.0,,"git, machine learning, nlp, pandas, python, sql"
+Candidate_14,8.6,0.19,0.0,0.0,,"git, machine learning, nlp, pandas, python, sql"
+Candidate_05,8.3,0.183,0.0,0.0,,"git, machine learning, nlp, pandas, python, sql"

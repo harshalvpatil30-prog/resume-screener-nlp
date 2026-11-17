@@ -1,0 +1,10 @@
+Python / AI-ML Engineer
+
+We are looking for an engineer to build and deploy machine learning applications.
+
+Required skills: Python, SQL, machine learning, NLP, pandas, git
+Nice to have: Docker, AWS, PyTorch, Hugging Face, FastAPI
+
+Responsibilities include building NLP models, fine-tuning language models,
+analyzing data, and developing REST APIs. Candidates should have a strong
+foundation in data structures and algorithms.
